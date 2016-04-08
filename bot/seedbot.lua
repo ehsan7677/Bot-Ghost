@@ -229,10 +229,10 @@ function create_config( )
     sudo_users = {155942468},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[Bot-Ghost v3 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/ehsan7677/Bot-Ghost
 
 Our team!
 Alphonse (@Iwals)
